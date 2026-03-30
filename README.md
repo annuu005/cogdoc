@@ -12,6 +12,43 @@ spaCy: For high-speed document segmentation.
 
 Interactive Dashboard: Built with React and FastAPI.
 
+📊 Datasets
+
+This project utilizes multiple benchmark datasets for legal and policy document analysis. These datasets cover tasks such as clause classification, contract understanding, legal entailment, and summarization.
+
+🔹 LEDGAR
+
+A large-scale dataset for contract clause classification derived from SEC filings.
+🔗 https://github.com/IBM/ledgar
+
+🔹 CUAD (Contract Understanding Atticus Dataset)
+
+A benchmark dataset for extracting and classifying important clauses in legal contracts.
+🔗 https://github.com/TheAtticusProject/cuad
+
+🔹 ContractNLI
+
+A natural language inference dataset for legal contracts, enabling reasoning over contractual clauses.
+🔗 https://stanfordnlp.github.io/contract-nli/
+
+🔹 BillSum
+
+A dataset for summarization of U.S. Congressional and California state bills.
+🔗 https://github.com/FiscalNote/BillSum
+
+🔹 ILDC (Indian Legal Documents Corpus)
+
+A dataset focused on Indian legal case documents for classification and judgment prediction tasks.
+🔗 https://github.com/Legal-NLP-EkStep/ILDC
+
+⚠️ Usage Note
+
+All datasets are publicly available. Please refer to the respective repositories for licensing terms, access conditions, and citation requirements.
+
+📌 Citation
+
+If you use these datasets, please cite the original sources as specified in their respective repositories.
+
 🛠️ Setup & Installation
 1. Clone the Repository
 PowerShell
